@@ -1,12 +1,7 @@
 # Azulejo Brutalism
 
-An Obsidian theme after Portuguese tiles: ink on glaze in light mode, glaze on ink in dark, Cobalt as the accent and Ochre as the one highlight that marks where you are. Square corners everywhere, flat surfaces, hard offset shadows instead of soft ones, and a strip of tiles under every note header.
 
-| Light | Dark |
-| ----- | ---- |
-| ![Light](https://github.com/user-attachments/assets/0753852c-f9ae-4c26-b4d2-41e55ebd8b47) | ![Dark](https://github.com/user-attachments/assets/41b560a1-aa61-49dd-851f-fd1aabab4303) |
-
-Works on desktop and mobile; on the phone the floating controls become square tiles too.
+An Obsidian theme build from love of Portuguese Azulejo tiling and brutalism, ink on glaze in light mode and glaze on ink in dark. Square corners everywhere, flat surfaces, hard offset shadows instead of soft ones. Screams brutalism, minimalism but with a twist. Works both on desktop and mobile.
 
 ## Install
 
