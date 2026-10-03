@@ -1,7 +1,10 @@
 # Azulejo Brutalism
 
-
 An Obsidian theme build from love of Portuguese Azulejo tiling and brutalism, ink on glaze in light mode and glaze on ink in dark. Square corners everywhere, flat surfaces, hard offset shadows instead of soft ones. Screams brutalism, minimalism but with a twist. Works both on desktop and mobile.
+
+![Azulejo Brutalism on desktop, light on the left and dark on the right](images/desktop.png)
+
+![Azulejo Brutalism on iPhone, light and dark](images/mobile.png)
 
 ## Install
 
@@ -16,8 +19,6 @@ With the [Style Settings](https://github.com/mgmeyers/obsidian-style-settings) p
 - **OLED dark**: true black behind everything in dark mode.
 - **Uppercase labels**: H1, H4–H6, table headers, callout titles and the status bar in capitals.
 - **Heading rules**: a thick rule under the title and H1, a thinner one under H2.
-
-Without the plugin, the same three are in [`snippets/`](snippets): copy them into your vault's `.obsidian/snippets` folder and turn them on in Settings → Appearance → CSS snippets.
 
 ## Other apps
 
